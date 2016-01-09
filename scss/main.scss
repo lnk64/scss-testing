@@ -1,0 +1,10 @@
+$myColor:#000fff;
+#main div {
+  color: #cccccc;
+  width: 95%;
+
+  .redbox {
+    background-color: #aaafff;
+    color: $myColor;
+  }
+}
